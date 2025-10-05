@@ -17,6 +17,7 @@
 		CECE33CD2E926EAB00DAEF65 /* WeatherStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECE33CC2E926EAB00DAEF65 /* WeatherStatus.swift */; };
 		CECE33CF2E92703E00DAEF65 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECE33CE2E92703E00DAEF65 /* WeatherButton.swift */; };
 		CECE33D12E927CD400DAEF65 /* WeatherDayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CECE33D02E927CD400DAEF65 /* WeatherDayView.swift */; };
+		CECE33D72E92B3A000DAEF65 /* weatherApp.gif in Resources */ = {isa = PBXBuildFile; fileRef = CECE33D62E92B3A000DAEF65 /* weatherApp.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		CECE33CC2E926EAB00DAEF65 /* WeatherStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherStatus.swift; sourceTree = "<group>"; };
 		CECE33CE2E92703E00DAEF65 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 		CECE33D02E927CD400DAEF65 /* WeatherDayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDayView.swift; sourceTree = "<group>"; };
+		CECE33D62E92B3A000DAEF65 /* weatherApp.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = weatherApp.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		CECE33B52E9244F600DAEF65 /* WeatherApp_SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				CECE33D62E92B3A000DAEF65 /* weatherApp.gif */,
 				CECE33C52E925F5100DAEF65 /* HelperViews */,
 				CECE33B62E9244F600DAEF65 /* WeatherApp_SwiftUIApp.swift */,
 				CECE33C42E925F2800DAEF65 /* Views */,
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CECE33BE2E9244F800DAEF65 /* Preview Assets.xcassets in Resources */,
+				CECE33D72E92B3A000DAEF65 /* weatherApp.gif in Resources */,
 				CECE33BB2E9244F800DAEF65 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
