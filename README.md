@@ -1,2 +1,2 @@
-![Weather App Demo](assets/weatherApp.gif
+![Weather App Demo](Media/weatherApp.gif
 )
