@@ -1,1 +1,1 @@
-![Weather App Demo](weatherApp.gif)
+![Weather App Demo](WeatherApp_SwiftUI/weatherApp.gif)
