@@ -9,7 +9,7 @@ The app dynamically switches between **Day and Night mode** and displays the **w
 ##  App Preview
 
 <p align="center">
-  <img src="WeatherApp_SwiftUI/weatherApp.gif" alt="Weather App Demo" width="200"/>
+  <img src="WeatherApp_SwiftUI/weatherApp.gif" alt="Weather App Demo" width="270"/>
 </p>
 
 ---
